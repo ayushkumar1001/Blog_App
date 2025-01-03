@@ -32,7 +32,7 @@ const CreatePosts = () => {
   return (
     <section className="create-post">
       <div className="container">
-        <h2>Creaate Post</h2>
+        <h2>Create Post</h2>
         <p className="form_error-message">
           THis is error message
         </p>
